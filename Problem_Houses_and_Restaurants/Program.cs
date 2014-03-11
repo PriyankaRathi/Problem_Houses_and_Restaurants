@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -218,3 +218,34 @@ namespace Problem_Houses_and_Restaurants
         //}
     }
 }
+
+/*
+
+Example
+
+Input:
+
+3
+3 5
+HHR
+1 2 3
+1 2 5
+1 3 10
+3 2 -1
+3 1 7
+2 2
+RR
+1 2 1
+2 1 2
+3 3
+HRR
+1 2 1
+1 3 2
+2 3 3
+
+Output:
+2
+0
+1
+
+*/
